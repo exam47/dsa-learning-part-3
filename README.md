@@ -1,2 +1,3 @@
 # dsa-learning-part-3
-this is my trail class .
+This is my trail class .
+Auther: Blue Barry.
